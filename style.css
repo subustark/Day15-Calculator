@@ -1,0 +1,26 @@
+.operator{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+.number{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: orange;
+}
+.keypad{
+    width: 270px;
+    padding: 40px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color:blue;
+}
+.history{
+    background-color:white;
+}
